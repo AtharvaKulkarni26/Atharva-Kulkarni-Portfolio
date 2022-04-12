@@ -8,7 +8,7 @@ By using python libraries we rate the emotions of the reviews in positive and ne
 
 Technologies used - Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, URL.Lib, Beautiful Soup.
 
-![](https://github.com/AtharvaKulkarni26/Atharva-Kulkarni-Portfolio/blob/main/images/word_cloud.png)
+![](/images/word_cloud.png)
 
 ## [Project 2 :- Machine-Learning-Real-Estate-Price-Prediction](https://github.com/AtharvaKulkarni26/Machine-Learning-Real-Estate-Price-Prediction)
 A real estate price prediction model built in Python with Jupyter Notebook.
@@ -21,7 +21,7 @@ Technology used;
 4. Sklearn for model building
 5. Jupyter notebook as IDE
 
-![](https://github.com/AtharvaKulkarni26/Atharva-Kulkarni-Portfolio/blob/main/images/predictions.PNG)
+![](/images/predictions.PNG)
 
 ## [Project 3 :- IPL-EDA-Project](https://github.com/AtharvaKulkarni26/IPL-EDA-Project)
 An exploratory data analysis project for the Indian Premier League cricket tournament with Python.
@@ -39,7 +39,7 @@ Emotion mining is the science of detecting, analyzing, and evaluating humans’ 
 
 This small project analyses the tweets of Elon Musk combined together in a dataset using technologies like re, matplotlib, pandas and textblob. 
 
-![](https://github.com/AtharvaKulkarni26/Atharva-Kulkarni-Portfolio/blob/main/images/elon_sentiment_analysis.PNG)
+![](/images/elon_sentiment_analysis.PNG)
 
 ## [Project 5 :- Data-Science-Concepts](https://github.com/AtharvaKulkarni26/Data-Science-Concepts)
 Set of codes on different data science concepts in Python.
@@ -73,4 +73,4 @@ This project compares the effect of Covid-19 on the basis of age and Gender with
 
 Technologies used - R, R Studio, Hmisc Library.
 
-![](https://github.com/AtharvaKulkarni26/Atharva-Kulkarni-Portfolio/blob/main/images/t-test-age.PNG)
+![](/images/t-test-age.PNG)
