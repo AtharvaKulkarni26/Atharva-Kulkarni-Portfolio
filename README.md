@@ -1,2 +1,2 @@
 # Atharva-Kulkarni-Portfolio
-Atharva Kulkarni Project Portfolio
+Data Science Project Portfolio
