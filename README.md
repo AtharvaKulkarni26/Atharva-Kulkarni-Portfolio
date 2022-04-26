@@ -1,16 +1,17 @@
-# Atharva-Kulkarni-Portfolio
+# Atharva Kulkarni Portfolio
 Data Science Project Portfolio
+(The project names are links.)
 
-## [Project 1 :- Amazon-Review-Scrapping-and-Emotion-Mining](https://github.com/AtharvaKulkarni26/Amazon-Review-Scrapping-and-Emotion-Mining)
+## [Project 1 :- Amazon Review Scrapping and Emotion Mining](https://github.com/AtharvaKulkarni26/Amazon-Review-Scrapping-and-Emotion-Mining)
 Amazon product reviews scrapping and emotion mining.
-Reviews are an important part of buying products, when buying something the consumer looks at the ratings and reviews of the product this project focuses on the reviews of a product on Amazon. - GODS Ghost 22 Litre Anti-Theft 15.6 Inch Laptop Backpack (Carbon Fibre Colour)
+Reviews are an important part of buying products. When buying something the consumer looks at the ratings and reviews of the product. This project focuses on the reviews of a product on Amazon. GODS Ghost 22 Litre Anti-Theft 15.6 Inch Laptop Backpack (Carbon Fibre Colour)
 By using python libraries we rate the emotions of the reviews in positive and negative categories.
 
 Technologies used - Python, Jupyter Notebook, Pandas, Numpy, Matplotlib, URL.Lib, Beautiful Soup.
 
 ![](/images/word_cloud.png)
 
-## [Project 2 :- Machine-Learning-Real-Estate-Price-Prediction](https://github.com/AtharvaKulkarni26/Machine-Learning-Real-Estate-Price-Prediction)
+## [Project 2 :- Machine Learning Real Estate Price Prediction](https://github.com/AtharvaKulkarni26/Machine-Learning-Real-Estate-Price-Prediction)
 A real estate price prediction model built in Python with Jupyter Notebook.
 This project focuses on building a real estate price prediction model using sklearn and linear regression using bangalore home prices dataset from kaggle.com. The model building covers data science concepts like data loading, data cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation. 
 
@@ -23,7 +24,7 @@ Technology used;
 
 ![](/images/predictions.PNG)
 
-## [Project 3 :- IPL-EDA-Project](https://github.com/AtharvaKulkarni26/IPL-EDA-Project)
+## [Project 3 :- IPL EDA Project](https://github.com/AtharvaKulkarni26/IPL-EDA-Project)
 An exploratory data analysis project for the Indian Premier League cricket tournament with Python.
 The Indian Premier League (IPL) is a very popular professional men's Twenty20 cricket league, during the time of this tournament millions of Indians are glued to their tv screens watching and supporting their favourite teams which represent different cities in India. This is a small explarotary data analysis project which focuses on match data and ball by ball data of matches between the year 2008 and 2020.
 
@@ -31,7 +32,7 @@ Technologies used: Python, Pandas, Numpy, Matplotlib, Seaborn, Github.
 
 ![](https://github.com/AtharvaKulkarni26/Atharva-Kulkarni-Portfolio/blob/main/images/virat_kohli_dismissal_kind.png)
 
-## [Project 4 :- Elon-Musk-Twitter-Emotion-Mining-Project](https://github.com/AtharvaKulkarni26/Elon-Musk-Twitter-Emotion-Mining-Project)
+## [Project 4 :- Elon Musk Twitter Emotion Mining Project](https://github.com/AtharvaKulkarni26/Elon-Musk-Twitter-Emotion-Mining-Project)
 emotion mining code on tweets of Elon Musk.
  
  Emotion Mining 
@@ -41,7 +42,7 @@ This small project analyses the tweets of Elon Musk combined together in a datas
 
 ![](/images/elon_sentiment_analysis.PNG)
 
-## [Project 5 :- Data-Science-Concepts](https://github.com/AtharvaKulkarni26/Data-Science-Concepts)
+## [Project 5 :- Data Science Concepts](https://github.com/AtharvaKulkarni26/Data-Science-Concepts)
 Set of codes on different data science concepts in Python.
 This project repository focuses on some important data science and AI concepts with a demonstration of how they work, the concepts used in this repository are:
 1. Association Rules
@@ -63,7 +64,7 @@ This project repository focuses on some important data science and AI concepts w
 Technologies used 
 Python, Jupyter Notebook, Matplotlib, Seaborn, Pandas, Numpy, Scikit-Learn, Keras.
 
-## [Project 6 - Covid-19-Analysis-in-R](https://github.com/AtharvaKulkarni26/Covid-19-Analysis-in-R)
+## [Project 6 - Covid-19 Analysis in R](https://github.com/AtharvaKulkarni26/Covid-19-Analysis-in-R)
 Analysis of Covid-19 with R.
 
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
